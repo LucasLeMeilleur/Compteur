@@ -3,11 +3,11 @@
 	<Transactions>
     <Transaction>2024/07/12 22:09:51.000.375,=D:\palad\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
     <Transaction>2024/07/12 22:09:51.000.416,=D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
-    <Transaction>2024/07/12 22:26:15.000.671,D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\palad\Desktop\Compteur\Unit1.dfm</Transaction>
-    <Transaction>2024/07/12 22:26:15.000.671,D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\palad\Desktop\Compteur\Unit1.h</Transaction>
-    <Transaction>2024/07/12 22:26:15.000.671,D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\palad\Desktop\Compteur\Unit1.cpp</Transaction>
-    <Transaction>2024/07/12 22:26:20.000.391,D:\palad\Documents\Embarcadero\Studio\Projets\Project2PCH1.h=C:\Users\palad\Desktop\Compteur\Project2PCH1.h</Transaction>
-    <Transaction>2024/07/12 22:26:22.000.153,D:\palad\Documents\Embarcadero\Studio\Projets\Project2.cbproj=C:\Users\palad\Desktop\Compteur\Project2.cbproj</Transaction>
-    <Transaction>2024/07/19 20:26:08.798,=C:\Users\palad\Desktop\Compteur\Unit2.cpp</Transaction>
+    <Transaction>2024/07/12 22:26:15.000.671,C:\Users\palad\Desktop\Compteur\Unit1.dfm=D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2024/07/12 22:26:15.000.671,C:\Users\palad\Desktop\Compteur\Unit1.cpp=D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2024/07/12 22:26:15.000.671,C:\Users\palad\Desktop\Compteur\Unit1.h=D:\palad\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2024/07/12 22:26:20.000.391,C:\Users\palad\Desktop\Compteur\Project2PCH1.h=D:\palad\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2024/07/12 22:26:22.000.153,C:\Users\palad\Desktop\Compteur\Project2.cbproj=D:\palad\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2024/07/19 20:26:08.000.798,=C:\Users\palad\Desktop\Compteur\Unit2.cpp</Transaction>
   </Transactions>
 </BorlandProject>

@@ -26,7 +26,7 @@ object Form2: TForm2
     Top = 64
     Width = 75
     Height = 25
-    Caption = 'Button1'
+    Caption = 'Valider'
     TabOrder = 1
     OnClick = Button1Click
   end
